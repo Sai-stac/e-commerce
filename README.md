@@ -37,7 +37,7 @@ Here are some screenshots of the application:
 ![Product Page](https://github.com/adithyakannam/E-Commerce/blob/main/screenshots/Product.png)
 
 ### Cart Page
-![Cart Page](https://github.com/adithyakannam/E-Commerce/blob/main/screenshots/5.png)
+![Cart Page](https://github.com/Sai-stac/e-commerce/blob/main/screenshots/5.png)
 
 
 ## Getting Started
@@ -52,7 +52,7 @@ To get a local copy up and running, follow these simple steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/adithyakannam/E-Commerce.git
+   git clone https://github.com/Sai-stac/e-commerce.git
    ```
 2. Navigate to the project directory:
    ```sh
@@ -87,8 +87,4 @@ Contributions are what make the open-source community such an amazing place to l
 
 Distributed under the MIT License. See [LICENSE](http://_vscodecontentref_/2) for more information.
 
-## Contact
 
-Adithya - [adithyakannam6@gmail.com](mailto:adithyakannam6@gmail.com)
-
-Project Link: [https://github.com/adithyakannam/E-Commerce](https://github.com/adithyakannam/E-Commerce)
