@@ -23,18 +23,18 @@ This is a modern e-commerce application built with React and Vite. It provides a
 Here are some screenshots of the application:
 
 ### Login Page
-![Login Page](https://github.com/adithyakannam/E-Commerce/blob/main/screenshots/login.png)
+![Login Page](https://github.com/Sai-stac/e-commerce/blob/main/screenshots/login.png)
 
 ### Home Page
-![Products Page](https://github.com/adithyakannam/E-Commerce/blob/main/screenshots/1.png)
+![Products Page](https://github.com/Sai-stac/e-commerce/blob/main/screenshots/1.png)
 
 ### Products Page
-![Products Page](https://github.com/adithyakannam/E-Commerce/blob/main/screenshots/2.png)
-![Products Page](https://github.com/adithyakannam/E-Commerce/blob/main/screenshots/3.png)
-![Products Page](https://github.com/adithyakannam/E-Commerce/blob/main/screenshots/4.png)
+![Products Page](https://github.com/Sai-stac/e-commerce/blob/main/screenshots/2.png)
+![Products Page](https://github.com/Sai-stac/e-commerce/blob/main/screenshots/3.png)
+![Products Page](https://github.com/Sai-stac/e-commerce/blob/main/screenshots/4.png)
 
 ### Product Page
-![Product Page](https://github.com/adithyakannam/E-Commerce/blob/main/screenshots/Product.png)
+![Product Page](https://github.com/Sai-stac/e-commerce/blob/main/screenshots/Product.png)
 
 ### Cart Page
 ![Cart Page](https://github.com/Sai-stac/e-commerce/blob/main/screenshots/5.png)
